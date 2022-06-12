@@ -1,6 +1,6 @@
 # Vscode scss compiler settings
 
-1. create a folder with a name ".vscode" in the root of your project.
+1. in the root of your project create a folder named ".vscode".
 2. inside the folder create a file named "settings.json".
 3. copy the code down below and paste it the "settings.json".
 4. change the save path 
