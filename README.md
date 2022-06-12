@@ -2,7 +2,7 @@
 
 1. create a folder with a name ".vscode" in the root of your project.
 2. inside the folder create a file named "settings.json".
-3. copy the code down below and paste it the "seetings.json".
+3. copy the code down below and paste it the "settings.json".
 4. change the save path 
 
 ```js
