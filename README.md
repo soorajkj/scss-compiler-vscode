@@ -1,1 +1,1 @@
-# vscode-scss-compiler-settings
+# Vscode scss compiler settings
