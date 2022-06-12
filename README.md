@@ -1,6 +1,6 @@
 # Vscode scss compiler settings
 
-<code>
+```js
 {
   "liveSassCompile.settings.formats": [
     {
@@ -26,4 +26,4 @@
   ],
   "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"]
 }
-</code>
+```
