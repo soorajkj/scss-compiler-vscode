@@ -29,7 +29,7 @@
 
 | Settings | Desc | Options | Default |
 | -------- | ---- | ------- | ------- |
-| liveSassCompile.settings.formats |  |  |  |
+| `liveSassCompile.settings.formats` |  | `expanded`, `compact`, `compressed`, `nested` | `expanded` |
 |  |  |  |  |
 |  |  |  |  |
 
