@@ -3,14 +3,14 @@
 ```javascript
 {
   "liveSassCompile.settings.formats": [
-    // you can add more format option object. default -
+    // default format
     {
       "format": "expanded", // it can be `expanded`, `compressed`, `compact`. default is `expanded`
       "extensionName": ".css", // it can `.css` or `.min.css`. default is `.css`
       "savePath": null,
       "savePathSegmentKeys": null,
       "savePathReplaceSegmentsWith": null
-    }
+    } 
   ],
   "liveSassCompile.settings.generateMap": false,
   "liveSassCompile.settings.showOutputWindowOn": "Error",
