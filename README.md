@@ -1,6 +1,6 @@
 # Vscode scss compiler settings
 
-```js
+```javascript
 {
   "liveSassCompile.settings.formats": [
     {
@@ -26,5 +26,10 @@
   ],
 }
 ```
+
+## Options list
+
+| setting | description | options | default |
+--------------------------------------------
 
 formats can be `expanded`, `compressed`, `compact`. default is `expanded`
