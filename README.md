@@ -3,16 +3,10 @@
 ```javascript
 {
   "liveSassCompile.settings.formats": [
+    // this is default.
     {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": null,
-      "savePathSegmentKeys": null,
-      "savePathReplaceSegmentsWith": null
-    },
-    {
-      "format": "compressed",
-      "extensionName": ".min.css",
+      "format": "expanded", // it can be `expanded`, `compressed`, `compact`. default is `expanded`
+      "extensionName": ".css", //  it can `.css` or `.min.css`. default is `.css`
       "savePath": null,
       "savePathSegmentKeys": null,
       "savePathReplaceSegmentsWith": null
@@ -27,10 +21,5 @@
 }
 ```
 
-| Settings | Desc | Options | Default |
-| -------- | ---- | ------- | ------- |
-| `liveSassCompile.settings.formats` | *To setup Format (style), Extension Name & Save location for exported css*  | `expanded`, `compact`, `compressed`, `nested` | `expanded` |
-|  |  |  |  |
-|  |  |  |  |
 
-formats can be `expanded`, `compressed`, `compact`. default is `expanded`
+
