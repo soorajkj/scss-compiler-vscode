@@ -27,10 +27,10 @@
 }
 ```
 
-| Settings | Desc| Options | Default |
-| ------------- | -------------:| -----:| --------------:|
-| liveSassCompile.settings.formats      | right-aligned | $1600 | Value |
-| col 2 is      | centered      |   $12 | value |
-| zebra stripes | are neat      |    $1 | value |
+| Settings | Desc | Options | Default |
+| -------- | ---- | ------- | ------- |
+| liveSassCompile.settings.formats |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 
 formats can be `expanded`, `compressed`, `compact`. default is `expanded`
