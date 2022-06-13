@@ -1,10 +1,5 @@
 # Vscode scss compiler settings
 
-1. in the root of your project create a folder named ".vscode".
-2. inside the folder create a file named "settings.json".
-3. copy the code down below and paste it the "settings.json".
-4. change the save path 
-
 ```js
 {
   "liveSassCompile.settings.formats": [
@@ -29,6 +24,7 @@
     "/**/node_modules/**",
     "/.vscode/**"
   ],
-  "liveSassCompile.settings.autoprefix": ["> 1%", "last 2 versions"]
 }
 ```
+
+formats can be `expanded`, `compressed`, `compact`. default is `expanded`
