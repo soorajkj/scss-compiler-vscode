@@ -1,4 +1,4 @@
-### vscode scss compiler settings
+# vscode scss compiler settings
 
 ```json
 {
