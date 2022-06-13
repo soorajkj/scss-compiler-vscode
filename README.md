@@ -1,4 +1,4 @@
-# Vscode scss compiler settings
+### vscode scss compiler settings
 
 ```javascript
 {
