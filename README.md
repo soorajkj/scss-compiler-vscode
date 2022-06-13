@@ -3,8 +3,8 @@
 ```javascript
 {
   "liveSassCompile.settings.formats": [
-    // you can add more option object combining with format, extension name, save path etc...
-    // default is this one
+    // you can add more option object combining `format`, `extensionName`, `savePath` etc...
+    // this is default
     {
       "format": "expanded", // it can be `expanded`, `compressed`, `compact`. default is `expanded`
       "extensionName": ".css", // it can `.css` or `.min.css`. default is `.css`
