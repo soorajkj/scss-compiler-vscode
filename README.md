@@ -27,10 +27,10 @@
 }
 ```
 
-| Tables        | Are           | Cool  |
+| Settings        | Desc           | Options | Default |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| liveSassCompile.settings.formats      | right-aligned | $1600 | Value |
+| col 2 is      | centered      |   $12 | value |
+| zebra stripes | are neat      |    $1 | value |
 
 formats can be `expanded`, `compressed`, `compact`. default is `expanded`
