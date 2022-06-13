@@ -5,8 +5,10 @@
   "liveSassCompile.settings.formats": [
     // default format
     {
-      "format": "expanded", // it can be `expanded`, `compressed`, `compact`. default is `expanded`
-      "extensionName": ".css", // it can `.css` or `.min.css`. default is `.css`
+       // it can be `expanded`, `compressed`, `compact`. default is `expanded`
+      "format": "expanded", 
+      // it can `.css` or `.min.css`. default is `.css`
+      "extensionName": ".css", 
       "savePath": null,
       "savePathSegmentKeys": null,
       "savePathReplaceSegmentsWith": null
