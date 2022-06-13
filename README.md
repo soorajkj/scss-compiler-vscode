@@ -1,6 +1,6 @@
 ### vscode scss compiler settings
 
-```javascript
+```json
 {
   "liveSassCompile.settings.formats": [
     // default format
