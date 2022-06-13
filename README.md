@@ -14,6 +14,7 @@
       "savePathReplaceSegmentsWith": null
     } 
   ],
+  // create a map file. it can be `true` or `false`. default is `true`.
   "liveSassCompile.settings.generateMap": false,
   "liveSassCompile.settings.showOutputWindowOn": "Error",
   "liveSassCompile.settings.excludeList": [
