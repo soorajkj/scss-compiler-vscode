@@ -6,7 +6,7 @@
     // this is default.
     {
       "format": "expanded", // it can be `expanded`, `compressed`, `compact`. default is `expanded`
-      "extensionName": ".css", //  it can `.css` or `.min.css`. default is `.css`
+      "extensionName": ".css", // it can `.css` or `.min.css`. default is `.css`
       "savePath": null,
       "savePathSegmentKeys": null,
       "savePathReplaceSegmentsWith": null
